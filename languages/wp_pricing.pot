@@ -1,0 +1,577 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pricing Table Builder - The Best Price Table Builder "
+"Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-12 11:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: Classes/CPT.php:12 wp-pricing-pro/Classes/CPT.php:12
+#: svn/trunk/Classes/CPT.php:12
+msgid "WP Pricing"
+msgstr ""
+
+#: Classes/Language.php:7 wp-pricing-pro/Classes/Language.php:7
+#: svn/trunk/Classes/Language.php:7
+msgid "Preview"
+msgstr ""
+
+#: Classes/Language.php:8 wp-pricing-pro/Classes/Language.php:8
+#: svn/trunk/Classes/Language.php:8
+msgid "WP Pricing Help and Support"
+msgstr ""
+
+#: Classes/Language.php:9 wp-pricing-pro/Classes/Language.php:9
+#: svn/trunk/Classes/Language.php:9
+msgid "Home"
+msgstr ""
+
+#: Classes/Language.php:10 wp-pricing-pro/Classes/Language.php:10
+#: svn/trunk/Classes/Language.php:10
+msgid "Help"
+msgstr ""
+
+#: Classes/Language.php:11 wp-pricing-pro/Classes/Language.php:11
+#: svn/trunk/Classes/Language.php:11
+msgid "Pricing Tables"
+msgstr ""
+
+#: Classes/Language.php:12 wp-pricing-pro/Classes/Language.php:12
+#: svn/trunk/Classes/Language.php:12
+msgid "Save"
+msgstr ""
+
+#: Classes/Language.php:13 wp-pricing-pro/Classes/Language.php:13
+#: svn/trunk/Classes/Language.php:13
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: Classes/Language.php:14 wp-pricing-pro/Classes/Language.php:14
+#: svn/trunk/Classes/Language.php:14
+msgid "Update"
+msgstr ""
+
+#: Classes/Language.php:15 wp-pricing-pro/Classes/Language.php:15
+#: svn/trunk/Classes/Language.php:15
+msgid "Error"
+msgstr ""
+
+#: Classes/Language.php:16 Classes/PricingTableHandler.php:130
+#: wp-pricing-pro/Classes/Language.php:16
+#: wp-pricing-pro/Classes/PricingTableHandler.php:130
+#: svn/trunk/Classes/Language.php:16
+#: svn/trunk/Classes/PricingTableHandler.php:130
+msgid "Please Provide Table Title"
+msgstr ""
+
+#: Classes/Language.php:17 wp-pricing-pro/Classes/Language.php:17
+#: svn/trunk/Classes/Language.php:17
+msgid "Success"
+msgstr ""
+
+#: Classes/Language.php:18 wp-pricing-pro/Classes/Language.php:18
+#: svn/trunk/Classes/Language.php:18
+msgid "Updated"
+msgstr ""
+
+#: Classes/Language.php:19 wp-pricing-pro/Classes/Language.php:19
+#: svn/trunk/Classes/Language.php:19
+msgid "All Pricing Tables"
+msgstr ""
+
+#: Classes/Language.php:20 wp-pricing-pro/Classes/Language.php:20
+#: svn/trunk/Classes/Language.php:20
+msgid "Add Table"
+msgstr ""
+
+#: Classes/Language.php:21 wp-pricing-pro/Classes/Language.php:21
+#: svn/trunk/Classes/Language.php:21
+msgid "Actions"
+msgstr ""
+
+#: Classes/Language.php:22 wp-pricing-pro/Classes/Language.php:22
+#: svn/trunk/Classes/Language.php:22
+msgid "Name"
+msgstr ""
+
+#: Classes/Language.php:23 wp-pricing-pro/Classes/Language.php:23
+#: svn/trunk/Classes/Language.php:23
+msgid "Shortcode"
+msgstr ""
+
+#: Classes/Language.php:24 wp-pricing-pro/Classes/Language.php:24
+#: svn/trunk/Classes/Language.php:24
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: Classes/Language.php:25 wp-pricing-pro/Classes/Language.php:25
+#: svn/trunk/Classes/Language.php:25
+msgid "Table Name"
+msgstr ""
+
+#: Classes/Language.php:26 wp-pricing-pro/Classes/Language.php:26
+#: svn/trunk/Classes/Language.php:26
+msgid "Your Table Name"
+msgstr ""
+
+#: Classes/Language.php:27 wp-pricing-pro/Classes/Language.php:27
+#: svn/trunk/Classes/Language.php:27
+msgid "Cancel"
+msgstr ""
+
+#: Classes/Language.php:28 wp-pricing-pro/Classes/Language.php:28
+#: svn/trunk/Classes/Language.php:28
+msgid "cancel"
+msgstr ""
+
+#: Classes/Language.php:29 wp-pricing-pro/Classes/Language.php:29
+#: svn/trunk/Classes/Language.php:29
+msgid "Add New"
+msgstr ""
+
+#: Classes/Language.php:30 wp-pricing-pro/Classes/Language.php:30
+#: svn/trunk/Classes/Language.php:30
+msgid "Please Provide Table Name"
+msgstr ""
+
+#: Classes/Language.php:31 wp-pricing-pro/Classes/Language.php:31
+#: svn/trunk/Classes/Language.php:31
+msgid "Are you sure to delete this?"
+msgstr ""
+
+#: Classes/Language.php:32 wp-pricing-pro/Classes/Language.php:32
+#: svn/trunk/Classes/Language.php:32
+msgid "confirm"
+msgstr ""
+
+#: Classes/Language.php:33 wp-pricing-pro/Classes/Language.php:33
+#: svn/trunk/Classes/Language.php:33
+msgid "Link will go to "
+msgstr ""
+
+#: Classes/Language.php:34 wp-pricing-pro/Classes/Language.php:34
+#: svn/trunk/Classes/Language.php:34
+msgid "Style"
+msgstr ""
+
+#: Classes/Language.php:35 wp-pricing-pro/Classes/Language.php:35
+#: svn/trunk/Classes/Language.php:35
+msgid "Contents"
+msgstr ""
+
+#: Classes/Language.php:36 wp-pricing-pro/Classes/Language.php:36
+#: svn/trunk/Classes/Language.php:36
+msgid "Content"
+msgstr ""
+
+#: Classes/Language.php:37 wp-pricing-pro/Classes/Language.php:37
+#: svn/trunk/Classes/Language.php:37
+msgid "Elements"
+msgstr ""
+
+#: Classes/Language.php:38 wp-pricing-pro/Classes/Language.php:38
+#: svn/trunk/Classes/Language.php:38
+msgid "CSS"
+msgstr ""
+
+#: Classes/Language.php:39 wp-pricing-pro/Classes/Language.php:39
+#: svn/trunk/Classes/Language.php:39
+msgid "Layout"
+msgstr ""
+
+#: Classes/Language.php:40 wp-pricing-pro/Classes/Language.php:40
+#: svn/trunk/Classes/Language.php:40
+msgid "Skin"
+msgstr ""
+
+#: Classes/Language.php:41 wp-pricing-pro/Classes/Language.php:41
+#: svn/trunk/Classes/Language.php:41
+msgid "Primary Color"
+msgstr ""
+
+#: Classes/Language.php:42 wp-pricing-pro/Classes/Language.php:42
+#: svn/trunk/Classes/Language.php:42
+msgid "color"
+msgstr ""
+
+#: Classes/Language.php:43 wp-pricing-pro/Classes/Language.php:43
+#: svn/trunk/Classes/Language.php:43
+msgid ""
+"* Get Pro Version to use unlimited color schema for your pricing tables."
+msgstr ""
+
+#: Classes/Language.php:44 wp-pricing-pro/Classes/Language.php:44
+#: svn/trunk/Classes/Language.php:44
+msgid "Get Pro"
+msgstr ""
+
+#: Classes/Language.php:45 wp-pricing-pro/Classes/Language.php:45
+#: svn/trunk/Classes/Language.php:45
+msgid "Table Column Border?"
+msgstr ""
+
+#: Classes/Language.php:46 wp-pricing-pro/Classes/Language.php:46
+#: svn/trunk/Classes/Language.php:46
+msgid "Table Column Rounded?"
+msgstr ""
+
+#: Classes/Language.php:47 wp-pricing-pro/Classes/Language.php:47
+#: svn/trunk/Classes/Language.php:47
+msgid "Pro Required"
+msgstr ""
+
+#: Classes/Language.php:48 wp-pricing-pro/Classes/Language.php:48
+#: svn/trunk/Classes/Language.php:48
+msgid "You need to upgrade to pro to use this skin"
+msgstr ""
+
+#: Classes/Language.php:49 wp-pricing-pro/Classes/Language.php:49
+#: svn/trunk/Classes/Language.php:49
+msgid "Unlimited Color Option"
+msgstr ""
+
+#: Classes/Language.php:50 wp-pricing-pro/Classes/Language.php:50
+#: svn/trunk/Classes/Language.php:50
+msgid "Customized column color"
+msgstr ""
+
+#: Classes/Language.php:51 wp-pricing-pro/Classes/Language.php:51
+#: svn/trunk/Classes/Language.php:51
+msgid "Multiple layouts to choose from"
+msgstr ""
+
+#: Classes/Language.php:52 wp-pricing-pro/Classes/Language.php:52
+#: svn/trunk/Classes/Language.php:52
+msgid "3+ columns Pricing Table"
+msgstr ""
+
+#: Classes/Language.php:53 wp-pricing-pro/Classes/Language.php:53
+#: svn/trunk/Classes/Language.php:53
+msgid "Hide Section"
+msgstr ""
+
+#: Classes/Language.php:54 wp-pricing-pro/Classes/Language.php:54
+#: svn/trunk/Classes/Language.php:54
+msgid "Premium skins"
+msgstr ""
+
+#: Classes/Language.php:55 wp-pricing-pro/Classes/Language.php:55
+#: svn/trunk/Classes/Language.php:55
+msgid "Customised primary color"
+msgstr ""
+
+#: Classes/Language.php:56 wp-pricing-pro/Classes/Language.php:56
+#: svn/trunk/Classes/Language.php:56
+msgid "Add"
+msgstr ""
+
+#: Classes/Language.php:57 wp-pricing-pro/Classes/Language.php:57
+#: svn/trunk/Classes/Language.php:57
+msgid "Featured Column"
+msgstr ""
+
+#: Classes/Language.php:58 wp-pricing-pro/Classes/Language.php:58
+#: svn/trunk/Classes/Language.php:58
+msgid "Title"
+msgstr ""
+
+#: Classes/Language.php:59 wp-pricing-pro/Classes/Language.php:59
+#: svn/trunk/Classes/Language.php:59
+msgid "Features"
+msgstr ""
+
+#: Classes/Language.php:60 wp-pricing-pro/Classes/Language.php:60
+#: svn/trunk/Classes/Language.php:60
+msgid "Price"
+msgstr ""
+
+#: Classes/Language.php:61 wp-pricing-pro/Classes/Language.php:61
+#: svn/trunk/Classes/Language.php:61
+msgid "Button"
+msgstr ""
+
+#: Classes/Language.php:62 wp-pricing-pro/Classes/Language.php:62
+#: svn/trunk/Classes/Language.php:62
+msgid "Ribbon"
+msgstr ""
+
+#: Classes/Language.php:63 wp-pricing-pro/Classes/Language.php:63
+#: svn/trunk/Classes/Language.php:63
+msgid "Main Skin Color"
+msgstr ""
+
+#: Classes/Language.php:64 wp-pricing-pro/Classes/Language.php:64
+#: svn/trunk/Classes/Language.php:64
+msgid ""
+"Upgrade to Pro Version to Set Primary Color to this plan and Make your "
+"pricing table more awesome!"
+msgstr ""
+
+#: Classes/Language.php:65 wp-pricing-pro/Classes/Language.php:65
+#: svn/trunk/Classes/Language.php:65
+msgid "Get Pro Version"
+msgstr ""
+
+#: Classes/Language.php:66 wp-pricing-pro/Classes/Language.php:66
+#: svn/trunk/Classes/Language.php:66
+msgid "Caption"
+msgstr ""
+
+#: Classes/Language.php:67 wp-pricing-pro/Classes/Language.php:67
+#: svn/trunk/Classes/Language.php:67
+msgid "PRICE PREFIX"
+msgstr ""
+
+#: Classes/Language.php:68 wp-pricing-pro/Classes/Language.php:68
+#: svn/trunk/Classes/Language.php:68
+msgid "From"
+msgstr ""
+
+#: Classes/Language.php:69 Classes/PricingTableHandler.php:210
+#: wp-pricing-pro/Classes/Language.php:69
+#: wp-pricing-pro/Classes/PricingTableHandler.php:210
+#: svn/trunk/Classes/Language.php:69
+#: svn/trunk/Classes/PricingTableHandler.php:210
+msgid "Up to"
+msgstr ""
+
+#: Classes/Language.php:70 wp-pricing-pro/Classes/Language.php:70
+#: svn/trunk/Classes/Language.php:70
+msgid "Average"
+msgstr ""
+
+#: Classes/Language.php:71 wp-pricing-pro/Classes/Language.php:71
+#: svn/trunk/Classes/Language.php:71
+msgid "Currency"
+msgstr ""
+
+#: Classes/Language.php:72 wp-pricing-pro/Classes/Language.php:72
+#: svn/trunk/Classes/Language.php:72
+msgid "PRICE POSTFIX"
+msgstr ""
+
+#: Classes/Language.php:73 wp-pricing-pro/Classes/Language.php:73
+#: svn/trunk/Classes/Language.php:73
+msgid "hour"
+msgstr ""
+
+#: Classes/Language.php:74 wp-pricing-pro/Classes/Language.php:74
+#: svn/trunk/Classes/Language.php:74
+msgid "day"
+msgstr ""
+
+#: Classes/Language.php:75 wp-pricing-pro/Classes/Language.php:75
+#: svn/trunk/Classes/Language.php:75
+msgid "week"
+msgstr ""
+
+#: Classes/Language.php:76 wp-pricing-pro/Classes/Language.php:76
+#: svn/trunk/Classes/Language.php:76
+msgid "month"
+msgstr ""
+
+#: Classes/Language.php:77 wp-pricing-pro/Classes/Language.php:77
+#: svn/trunk/Classes/Language.php:77
+msgid "year"
+msgstr ""
+
+#: Classes/Language.php:78 wp-pricing-pro/Classes/Language.php:78
+#: svn/trunk/Classes/Language.php:78
+msgid "night"
+msgstr ""
+
+#: Classes/Language.php:79 wp-pricing-pro/Classes/Language.php:79
+#: svn/trunk/Classes/Language.php:79
+msgid "Button Label"
+msgstr ""
+
+#: Classes/Language.php:80 wp-pricing-pro/Classes/Language.php:80
+#: svn/trunk/Classes/Language.php:80
+msgid "Button Url"
+msgstr ""
+
+#: Classes/Language.php:81 wp-pricing-pro/Classes/Language.php:81
+#: svn/trunk/Classes/Language.php:81
+msgid "Open Link In New Window"
+msgstr ""
+
+#: Classes/Language.php:82 wp-pricing-pro/Classes/Language.php:82
+#: svn/trunk/Classes/Language.php:82
+msgid "Custom Class of The Button"
+msgstr ""
+
+#: Classes/Language.php:83 wp-pricing-pro/Classes/Language.php:83
+#: svn/trunk/Classes/Language.php:83
+msgid "Icon Class"
+msgstr ""
+
+#: Classes/Language.php:84 wp-pricing-pro/Classes/Language.php:84
+#: svn/trunk/Classes/Language.php:84
+msgid "Hint Text"
+msgstr ""
+
+#: Classes/Language.php:85 wp-pricing-pro/Classes/Language.php:85
+#: svn/trunk/Classes/Language.php:85
+msgid "Ribbon Text"
+msgstr ""
+
+#: Classes/Language.php:86 wp-pricing-pro/Classes/Language.php:86
+#: svn/trunk/Classes/Language.php:86
+msgid "Text"
+msgstr ""
+
+#: Classes/Language.php:87 wp-pricing-pro/Classes/Language.php:87
+#: svn/trunk/Classes/Language.php:87
+msgid "Personal Plan"
+msgstr ""
+
+#: Classes/Language.php:88 wp-pricing-pro/Classes/Language.php:88
+#: svn/trunk/Classes/Language.php:88
+msgid "Individuals and small teams"
+msgstr ""
+
+#: Classes/Language.php:89 Classes/PricingTableHandler.php:192
+#: wp-pricing-pro/Classes/Language.php:89
+#: wp-pricing-pro/Classes/PricingTableHandler.php:192
+#: svn/trunk/Classes/Language.php:89
+#: svn/trunk/Classes/PricingTableHandler.php:192
+msgid "Popular"
+msgstr ""
+
+#: Classes/Language.php:90 wp-pricing-pro/Classes/Language.php:90
+#: svn/trunk/Classes/Language.php:90
+msgid "Demo Feature for basic"
+msgstr ""
+
+#: Classes/Language.php:91 Classes/PricingTableHandler.php:216
+#: wp-pricing-pro/Classes/Language.php:91
+#: wp-pricing-pro/Classes/PricingTableHandler.php:216
+#: svn/trunk/Classes/Language.php:91
+#: svn/trunk/Classes/PricingTableHandler.php:216
+msgid "Purchase"
+msgstr ""
+
+#: Classes/Language.php:92 wp-pricing-pro/Classes/Language.php:92
+#: svn/trunk/Classes/Language.php:92
+msgid "14-day money back guarantee"
+msgstr ""
+
+#: Classes/Language.php:93 wp-pricing-pro/Classes/Language.php:93
+#: svn/trunk/Classes/Language.php:93
+msgid "Pro Feature"
+msgstr ""
+
+#: Classes/Language.php:94 wp-pricing-pro/Classes/Language.php:94
+#: svn/trunk/Classes/Language.php:94
+msgid "Please upgrade to pro to add more than 3 tables"
+msgstr ""
+
+#: Classes/Language.php:95 wp-pricing-pro/Classes/Language.php:95
+#: svn/trunk/Classes/Language.php:95
+msgid "Edit Me"
+msgstr ""
+
+#: Classes/Language.php:96 wp-pricing-pro/Classes/Language.php:96
+#: svn/trunk/Classes/Language.php:96
+msgid "You can hide this section from your table in Pro Version."
+msgstr ""
+
+#: Classes/Language.php:97 wp-pricing-pro/Classes/Language.php:97
+#: svn/trunk/Classes/Language.php:97
+msgid "Delete"
+msgstr ""
+
+#: Classes/Language.php:98 wp-pricing-pro/Classes/Language.php:98
+#: svn/trunk/Classes/Language.php:98
+msgid "Default"
+msgstr ""
+
+#: Classes/Menu.php:5 Classes/Menu.php:8 wp-pricing-pro/Classes/Menu.php:5
+#: wp-pricing-pro/Classes/Menu.php:8 svn/trunk/Classes/Menu.php:5
+#: svn/trunk/Classes/Menu.php:8
+msgid "PricingTable"
+msgstr ""
+
+#: Classes/PricingTableHandler.php:50
+#: wp-pricing-pro/Classes/PricingTableHandler.php:50
+#: svn/trunk/Classes/PricingTableHandler.php:50
+msgid "Table Title successfully updated"
+msgstr ""
+
+#: Classes/PricingTableHandler.php:122
+#: wp-pricing-pro/Classes/PricingTableHandler.php:122
+#: svn/trunk/Classes/PricingTableHandler.php:122
+msgid "The Table successfully deleted!"
+msgstr ""
+
+#: Classes/PricingTableHandler.php:163
+#: wp-pricing-pro/Classes/PricingTableHandler.php:163
+#: svn/trunk/Classes/PricingTableHandler.php:163
+msgid "Table Content has been updated"
+msgstr ""
+
+#: Classes/PricingTableHandler.php:204 Classes/PricingTableHandler.php:243
+#: Classes/PricingTableHandler.php:287
+#: wp-pricing-pro/Classes/PricingTableHandler.php:204
+#: wp-pricing-pro/Classes/PricingTableHandler.php:243
+#: wp-pricing-pro/Classes/PricingTableHandler.php:287
+#: svn/trunk/Classes/PricingTableHandler.php:204
+#: svn/trunk/Classes/PricingTableHandler.php:243
+#: svn/trunk/Classes/PricingTableHandler.php:287
+msgid "Demo Feature 2 for this plan"
+msgstr ""
+
+#: Classes/PricingTableHandler.php:248 Classes/PricingTableHandler.php:292
+#: wp-pricing-pro/Classes/PricingTableHandler.php:248
+#: wp-pricing-pro/Classes/PricingTableHandler.php:292
+#: svn/trunk/Classes/PricingTableHandler.php:248
+#: svn/trunk/Classes/PricingTableHandler.php:292
+msgid "Demo Feature 3 for this plan"
+msgstr ""
+
+#: Classes/PricingTableHandler.php:297
+#: wp-pricing-pro/Classes/PricingTableHandler.php:297
+#: svn/trunk/Classes/PricingTableHandler.php:297
+msgid "Demo Feature 4 for this plan"
+msgstr ""
+
+#: Classes/ProcessDemoPage.php:34 wp-pricing-pro/Classes/ProcessDemoPage.php:34
+#: svn/trunk/Classes/ProcessDemoPage.php:34
+msgid "WP Pricing Demo Preview ( Pricing Table ID: "
+msgstr ""
+
+#: Pro/updater/wp_pricing_table_pro_updater.php:37
+#: Pro/updater/wp_pricing_table_pro_updater.php:39
+#: wp-pricing-pro/Pro/updater/wp_pricing_table_pro_updater.php:37
+#: wp-pricing-pro/Pro/updater/wp_pricing_table_pro_updater.php:39
+msgid "WP Pricing Table Pro"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pricing Table Builder - The Best Price Table Builder Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Drag and Drop Price Table Builder Plugin for WordPress"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpmanageninja.com/products/wp-pricing-table-builder-plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPManageNinja"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpmanageninja.com"
+msgstr ""
